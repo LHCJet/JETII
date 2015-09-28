@@ -1,6 +1,6 @@
 JETJet II
 =================================================================
-An implementation of the JET II algorithm for finding 2-prong jets, described in arXiv:.
+An implementation of the JET II algorithm for finding 2-prong jets, described in arXiv:1509.07522.
 
 Requirements:
 --------------------------------------------
